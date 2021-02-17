@@ -1,0 +1,93 @@
+.header-logo{
+  font-size :50px;
+  float:left;
+  padding: 10px 40px;
+  
+}
+.header{
+  background-color:black;
+  color:white;
+  height:90px;
+}
+
+.header-list{
+  background-color:black;
+  
+}
+
+.header-list li{
+  list-style:none;
+  float:right;
+  padding:33px 20px;
+}
+
+.copy-container{
+  font-size:180px;
+}
+
+.copy-container h1{
+
+  font-size:100px;
+}
+
+
+.contents {
+  height: 4000px;
+  
+}
+.contents-item{
+  font-size:24px;
+}
+
+.contents-item li{
+  list-style:none;
+  float:left;
+  
+
+}
+
+.university-name{
+  font-size: 30px;
+}
+
+.bad-grade{
+  color:blue;
+}
+.contents-item span {
+  color:red;
+}
+.contact-form{
+  padding-top:100px;
+}
+
+input,textarea{
+  margin-top:10px;
+  margin-bottom:30px;
+  padding:20px;
+  font-size:18px;
+  border:1px solid #dee7ec;
+  width:400px;
+}
+.footer{
+  background-color:black;
+  color:white;
+  height:100px;
+  padding:40px;
+
+}
+
+.footer-logo{
+  float:left;
+  font-size: 32px;
+
+}
+
+.footer-list{
+  float:right;
+
+}
+
+.footer-list li{
+  padding-bottom:20px;
+  list-style:none;
+}
