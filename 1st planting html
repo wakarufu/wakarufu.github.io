@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>ちりつも</title>
+    <link rel="stylesheet" href="stylesheet.css">
+  </head>
+  <body>
+    <div class="header">
+      <div class="header-logo">ちりつも</div>
+
+      <div class="header-list">
+        <ul>
+          <li>プロフィール</li>
+          <li>勉強法</li>
+          <li>体験記</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="main">
+      <div class="copy-container"></div>
+        <h1>模試の判定どれくらい正しい？？？？</h1>
+         <p>どうもみなさんこんにちは。ちりつもです</p>
+         <p>入試が各大学で続々と行われている中、現在高校2年生の人たちはしっかり入試に向けて準備ができているでしょうか？</p>
+         <p>高校3年生になると、多くの人が模試を受けることでしょう。</p>
+         <p>そこで今回は、自分の入試結果を元に、模試の判定の信憑性について話していきます！！</p>
+      <div class="contents">
+        <h2 class="section-title">模試の判定と入試結果</h2>
+        <div class="contents-item">
+          <img src="https://image.minkou.jp/images/school_img/20302/750_e27e49100aeb12b7cb8f78ae2a8e42dedc3ac3be.jpg">
+          <p class="university-name">早稲田大学</p>
+          <p>河合第三回記述　<span>A判定</span>→→<span>合格</span></p>
+        </div>
+
+        <div class="contents-item">
+          <img src="https://www.tsushin.keio.ac.jp/assets/images/about/img_facility_mita.jpg">
+          <p class="university-name">慶應義塾大学</p>
+          <p>河合第三回記述　<span>B判定</span>→→不合格</p>
+        </div>
+
+        <div class="contents-item">
+          <img src="https://www.yotsuyagakuin.com/b_geneki/wp/wp-content/uploads/tokyo-u_main_image.jpg">
+          <p class="university-name">東京大学</p>
+          <ul>
+            <li>河合第三回記述　C判定</li>
+            <li>冠模試（河合）  D判定</li>
+            <li>冠模試（駿台）　C判定</li>
+          </ul>
+          <P>→→不合格</P>
+         
+        </div>
+
+        <div class="contents-item">
+          <img src="https://satokitchen2.net/wp-content/uploads/2018/12/%E4%B8%80%E6%A9%8B1227.jpg">
+          <p class="university-name">一橋大学</p>
+          <p>河合第三回記述　D判定→→<span>合格</span></p>
+
+        </div>
+      <div class="contents-finish">
+        <h3>考察</h3>
+        <p>どうだったでしょうか？？やはりA判定、B判定はある程度は受かりやすく、C判定D判定だと落ちる可能性が高いというのはまぎれもない事実であると思います。</p>
+        <p>しかし、私のように、B判定であるにも関わらず不合格になったり、D判定であっても合格できるケースは存在します。</p>
+        <p>ありきたりな結論ではありますが、模試の結果が多少悪かったとしても最後まで粘り強くやることが大切なのかもしれません。</p>
+        <p>皆さんの参考に少しでもなることができれば幸いです。頑張ってください！！</p>
+      </div>
+
+      <div class="contact-form">
+        <h3 class="section-title">お問い合わせ</h3>
+        <p>メールアドレス（必須）</p>
+          <input>
+        <p>お問い合わせ内容</p>
+          <textarea></textarea>
+        <p>※必須項目は必ずご記入ください</p>
+
+        <input class="contact-submit" type=submit value=送信>
+      </div>
+    </div>
+
+    <div class="footer">
+      <div class="footer-logo">ちりつも</div>
+      <div class="footer-list">
+        <ul>
+          <li>勉強法</li>
+          <li>体験記</li>
+          <li>お問い合わせ</li>
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>
